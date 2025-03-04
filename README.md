@@ -1,7 +1,9 @@
 # Deep_Learnin_Project
-# Deep Learning Project #2 Report  
+
 
 ## 1. Introduction  
+In this project, we worked as a group team of two. My friend Emrah Fidan and I collaborated to complete this project together.  
+
 Denial of Service (DoS) attacks remain one of the most significant threats to web services and network infrastructure. This project explores various machine learning and deep learning approaches to detect and classify DoS attacks, leveraging both traditional classification algorithms and advanced neural network architectures.  
 
 ## 2. Data Preprocessing and Feature Engineering  
